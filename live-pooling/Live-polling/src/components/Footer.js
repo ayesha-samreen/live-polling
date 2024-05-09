@@ -7,7 +7,7 @@ export default function Footer() {
 				Built with ❤ by{" "}
 				<a
 					className="profile"
-					href="https://github.com/Md-Abdul-Hameed"
+					href="https://github.com/ayesha-samreen"
 					target="_blank"
 					rel="noreferrer"
 				>
