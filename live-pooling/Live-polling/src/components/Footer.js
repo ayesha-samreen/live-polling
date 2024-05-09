@@ -11,7 +11,7 @@ export default function Footer() {
 					target="_blank"
 					rel="noreferrer"
 				>
-					Hameed
+					ayesha samreen
 				</a>
 			</p>
 		</div>
